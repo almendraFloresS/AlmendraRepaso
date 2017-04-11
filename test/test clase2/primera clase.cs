@@ -4,13 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace test
+namespace test_clase2
 {
-    class Program
+    class primera_clase
     {
-        static void Main(string[] args)
-        {
-           
-        }
     }
 }

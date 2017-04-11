@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{772DB086-43AC-4326-81AE-8DAC9F382E65}</ProjectGuid>
+    <ProjectGuid>{52B0E3D5-9546-45E0-8B20-EAF475E99857}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>test.clase</RootNamespace>
-    <AssemblyName>test.clase</AssemblyName>
+    <RootNamespace>test_clase2</RootNamespace>
+    <AssemblyName>test_clase2</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="primeraClase.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

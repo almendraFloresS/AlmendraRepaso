@@ -4,13 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace test
+namespace test.clase
 {
-    class Program
+    class segundaClase
     {
-        static void Main(string[] args)
-        {
-           
-        }
     }
 }
